@@ -17,7 +17,7 @@ const shareRouter = require("./src/routes/shares.routes");
 
 const app = express();
 
-const PORT = 3000;
+const PORT = 8080;
 
 hbs.registerPartials(path.join(process.env.PWD, "src", "views", "partials"));
 hbs.registerHelper('addEditDelete', (owner, idUser) => {
