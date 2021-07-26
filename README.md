@@ -1,2 +1,3 @@
-# the_project
-The project 
+# THE_PROJECT
+
+Проект для заказчика
